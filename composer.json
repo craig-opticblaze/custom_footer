@@ -1,0 +1,28 @@
+{
+    "name": "craig-opticblaze/custom_footer",
+    "description": "Silverstripe Custom Footer",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+    }
+}
+
+{
+"name": "craig-opticblaze/custom_footer",
+"description": "Adds a footer tab under settings to easily edit the footer without coding",
+"keywords": [
+  "silverstripe",
+    "footer"
+],
+"type": "silverstripe-module",
+
+"extra": {
+    "installer-name": "custom_footer"
+},
+"license": "BSD-3-Clause",
+"authors": [
+    {
+        "name": "OpticBlaze",
+        "email": "craig@opticblaze.co.za"
+    }
+]
+}
