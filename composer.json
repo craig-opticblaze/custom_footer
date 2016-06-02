@@ -1,20 +1,16 @@
 {
-"name": "craig-opticblaze/custom_footer",
-"description": "This module adds a tab to the settings page that will easily allow footer changes to be made via the WYSIWYG editor.",
-"keywords": [
-  "silverstripe",
-    "footer"
-],
-"type": "silverstripe-module",
-
-"extra": {
-    "installer-name": "custom_footer"
-},
-"license": "BSD-3-Clause",
-"authors": [
+    "name": "craig-opticblaze/custom_footer",
+    "description": "Adds a tab to the settings page that will easily allow footer changes to be made via the WYSIWYG editor.",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "custom_footer", "footer"],
+	"license": "BSD-3-Clause",
+    "authors": [
     {
-        "name": "OpticBlaze",
+        "name": "Optic Blaze",
         "email": "craig@opticblaze.co.za"
+    }],
+    "require": {
+        "silverstripe/framework": "~3.0"
     }
-]
+    
 }
