@@ -1,6 +1,6 @@
 {
 "name": "craig-opticblaze/custom_footer",
-"description": "Adds a footer tab under settings to easily edit the footer without coding",
+"description": "This module adds a tab to the settings page that will easily allow footer changes to be made via the WYSIWYG editor.",
 "keywords": [
   "silverstripe",
     "footer"
