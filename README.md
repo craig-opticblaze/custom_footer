@@ -1,3 +1,5 @@
-Custom Footer for Silverstrip 3
+Custom Footer for Silverstripe 3
 
-This module adds a tab to the settings page 
+This module adds a tab to the settings page that will easily allow changes to be made via the WYSIWYG editor.
+
+https://github.com/craig-opticblaze/custom_footer
